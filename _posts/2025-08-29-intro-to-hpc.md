@@ -1,4 +1,12 @@
-# Introduction to HPC at Yale
+---
+date: 2025-08-29
+title: Introduction to HPC at Yale
+categories:
+- HPC at Yale
+description: introduction to HPC at Yale
+type: Document
+---
+
 ## Why use a HPC?
 - Personal machine is too slow and/or does not have enough storage
 - Get access to GPUs
